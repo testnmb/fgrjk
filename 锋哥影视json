@@ -4,13 +4,7 @@
     "wallpaper":"http://tool.teyonds.com/api",
     "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
     "sites": [
-        {
-            "key": "奇优影视",
-            "name": "🐙优酷视频｜追剧",
-            "type": 3,
-            "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_Qiyou"
-        },
-        {"key": "qysp",
+         {"key": "qysp",
         "name": "🐙爱奇艺视频｜追剧",
         "type": 3,
         "api": "MJS_qysp"       ,
@@ -19,6 +13,12 @@
         "filterable": 1,
         "ext": "http://www.meowtv.cn/js/meow.php?file=qysp",
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
+        },
+        {
+            "key": "奇优影视",
+            "name": "🐙优酷视频｜追剧",
+            "type": 3,
+            "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_Qiyou"
         },
         {"key": "txsp",
         "name": "🐙腾讯视频｜追剧",
