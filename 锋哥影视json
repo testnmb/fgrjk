@@ -50,7 +50,7 @@
         {"key": "sgys",
         "name": "🐙搜狗视频｜追剧",
         "type": 3,
-        "api": "MJS_sgys"       ,
+        "api": "MJS_sgys",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
