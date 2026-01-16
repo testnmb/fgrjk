@@ -370,10 +370,10 @@
                 }
             }
         },
-       {
-            "name": "♻️欧歌APP",
+      {
+            "name": "♻️夕夕",
             "type": 1,
-            "url": "https://vip.daina.hk/fyzy/json.php?&url=",
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -383,18 +383,21 @@
                     "奇艺",
                     "youku",
                     "优酷",
-                    "sohu",
-                    "搜狐",
+                    "mgtv",
+                    "芒果",
                     "letv",
-                    "乐视",
-                    "yk",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
+                    "leshi",
+                    "LS",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
                     "bilibili",
-                    "1905",
-                    "xigua"
-                ]
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/5.3.2"
+                }
             }
         },
       {
