@@ -293,6 +293,36 @@
             "quickSearch": 1,
             "searchable": 1,
             "filterable": 0
+        },
+         {
+            "key": "241224天美影院",
+            "name": "🐙天美影院｜🔞",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "http://www.xbyc.cc/",
+                "数组": "box-item&&</em>",
+                "链接": "默认--href=\"&&\"||搜索--href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
+                "图片": "original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "<span>&&</span>",
+                "简介": "description\" content=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "搜索url": "http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "分类url": "http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                "分类数组": "<li>&&</li>",
+                "分类标题": ">&&</a>",
+                "分类ID": "/index.php/vod/type/id/&&.html"
+            }
         }
         ],
     "parses": [ 
@@ -362,6 +392,16 @@
             "name": "线路3",
             "type": 1,
             "url": "https://jx.nnxv.cn/tv.php?url="
+        },
+        {
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "聚合",
+            "type": 3,
+            "url": "Demo"
         },
     {
       "group": "软解码",
