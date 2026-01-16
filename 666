@@ -58,16 +58,6 @@
         "api": "http://www.meowtv.cn/js/drpy2.min.js"
         },
 "parses":[
-        {
-            "name": "Web聚合",
-            "type": 3,
-            "url": "Web"
-        },
-        {
-            "name": "聚合",
-            "type": 3,
-            "url": "Demo"
-        },
        {
             "name": "春天",
             "type": 0,
@@ -120,6 +110,17 @@
          }
        }
      },
+"parses":[
+      {
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "聚合",
+            "type": 3,
+            "url": "Demo"
+        },
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
 {"category":4,"name":"overlay-format","value":"842225234"},
