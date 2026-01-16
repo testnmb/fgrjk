@@ -301,36 +301,6 @@
             "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1
-        },
-         {
-            "key": "csp_hs",
-            "name": "🔞新黄色仓库",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "站名": "黄仓库",
-                "主页url": "https://hsck3.26img.com/",
-                "直接播放": "1",
-                "数组": "<div class=\"stui-vodlist__box\">&&</li>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "播放链接": "href=\"&&\"",
-                "副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索url": "https://hsck3.26img.com/?search2=ndafeoafa&search={wd}",
-                "搜索模式": "0",
-                "搜索数组": "<div class=\"stui-vodlist__box\">&&</li>",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "免嗅": "1",
-                "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-                "分类": "国产新片$ycgc#无码中文$wz#日本无码$rw#国产视频$gc#欧美高清$om#动漫剧情$dm#其他分类$other#有码中文$yz#日本有码$ry",
-                "分类url": "https://hsck3.26img.com/?type={cateId}&p={catePg};;az"
-            }
         }
         ],
     "parses": [ 
