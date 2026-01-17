@@ -320,7 +320,7 @@
             "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1
-        },
+        }
         ],
     "parses": [ 
              {
