@@ -83,16 +83,6 @@
             "jar":"https://ghproxy.net/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/fuma.jar;md5;542ED744B07121213F70323B9BCBECCA"
         },
         {
-            "key": "hipy_js_暖光影视",
-            "name": "🐙暖光影视｜追剧",
-            "type": 3,
-            "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/暖光影视.js"
-        },
-        {
             "key": "API_如意",
             "name": "🐙如意影视｜追剧",
             "type": 1,
