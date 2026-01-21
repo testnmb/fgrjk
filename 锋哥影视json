@@ -1,4 +1,3 @@
-
 {
     "spider": "./tvbox.jar",
     "logo": "https://photo.16pic.com/00/31/77/16pic_3177186_b.jpg",
@@ -84,13 +83,6 @@
         "喜剧片"
       ]
       },
-        {
-            "key": "绝对影视",
-            "name": "🐙绝对影视｜追剧",
-            "type": 3,
-            "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_FourK",
-            "ext": "https://www.4kvm.tv"
-        },
       {
       "key": "柠檬",
       "name": "🐙柠檬｜追剧",
