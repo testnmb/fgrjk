@@ -620,17 +620,17 @@
     {"name": "DNSWatch","url": "https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},
     {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}],
 "lives": [
-        {
-            "name": "🐙anboxtv",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://tv.anboxtv.online/tv"
-        }, 
          {
             "name": "🐙地方直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+        }, 
+         {
+            "name": "🐙anboxtv",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://tv.anboxtv.online/tv"
         }, 
         {
             "name": "🐙冰茶",
@@ -654,7 +654,7 @@
             "name": "🐙台湾TV(梯子)",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾TV"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾TV"
         },
         {
             "name": "🐙港台大陆频道",
