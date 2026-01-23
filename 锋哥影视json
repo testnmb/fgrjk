@@ -82,6 +82,18 @@
             
         },
         {
+            "name": "🐙伊外｜追剧",
+            "key": "YIys",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+        {
             "key": "还行",
             "name": "🐙还行4K｜追剧",
             "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
