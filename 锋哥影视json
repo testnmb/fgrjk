@@ -718,7 +718,7 @@
             "ua": "okhttp",
             "url": "http://tv.anbox.ip-ddns.com/live"
         },
-         {
+        {
             "name": "🐙litv直播",
             "type": 0,
             "ua": "okhttp",
