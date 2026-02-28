@@ -755,7 +755,7 @@
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
          {
-            "name": "🐙新加坡频道(梯子新加坡节点)",
+            "name": "🐙新加坡频道(新加坡家宽节点)",
             "type": 0,
             "ua": "okhttp",
             "url": "http://xtvantsc.xyz/新加坡.m3u"
@@ -765,12 +765,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/SingTelTV"
-        },
-        {
-            "name": "🐙iptvpro🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro.txt"
         },
         {
             "name": "🐙亚麻蝶🔞",
