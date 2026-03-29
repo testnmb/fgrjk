@@ -665,12 +665,6 @@
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
         },
-        {
-            "name": "🐙Gather",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://tv.iill.top/m3u/Gather"
-        },
          {
             "name": "🐙Mytv",
             "type": 0,
@@ -731,18 +725,6 @@
             "ua": "okhttp",
             "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
-        {
-            "name": "🐙iptvpro🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://hufa.zabc.net:8080/iptvpro.php"
-        }, 
-        {
-            "name": "🐙亚麻蝶🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://xoxo.cn.mt/Lonely.m3u"
-        }, 
         {
             "name": "🐙安博(梯子)🔞",
             "type": 0,
