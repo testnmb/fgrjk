@@ -428,36 +428,151 @@
                 }
             }
         },  
-      {
-      "name": "极速HD3",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "极速HD4",
-      "type": 0,
-      "url": "https://jiexi.789jiexi.net:4433/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
-    {
-      "name": "极速HD6",
-      "type": 0,
-      "url": "https://bd.jx.cn/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
+       {
+			"name": "公益影视┃公益解析",
+			"type": "1",
+			"url": "https://rizzon.in/wp-content/json.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+        {
+			"name": "公益影视┃疼疼解析",
+			"type": "1",
+			"url": "https://h5.freejson.xyz/player/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+		{
+			"name": "公益影视┃臻享",
+			"type": "1",
+			"url": "https://zy.qiaoji8.com/gouzi.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+		{
+			"name": "公益影视┃优选",
+			"type": 1,
+			"url": "http://1.94.221.189:88/algorithm.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
+		{
+			"name": "公益影视┃至臻",
+			"type": 1,
+			"url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
   {
             "name": "默认1",
             "type": 1,
