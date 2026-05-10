@@ -312,45 +312,14 @@
 			"type": 3,
 			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
 		},
-          {
-      "key": "*色猫资源",
-      "name": "🐙色猫资源｜🔞",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+        {
+      "key": "(18+)环亚资源",
+      "name": "🐙环亚资源｜🔞",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "*色南国资源",
-      "name": "🐙色南国资源｜🔞",
-      "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "*抖阴视频",
-      "name": "🐙抖阴视频｜🔞",
-      "type": 1,
-      "api": "https://www.888dav.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "*麻豆视频2",
-      "name": "🐙麻豆视频｜🔞",
-      "type": 1,
-      "api": "https://madouse.la/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "*蛋蛋视频",
-      "name": "🐙蛋蛋视频｜🔞",
-      "type": 1,
-      "api": "https://156.249.29.8/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 0
+      "quickSearch": 1,
+      "filterable": 0
     },
          {
             "key": "黄色仓库|AV",
