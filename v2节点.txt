@@ -2,4 +2,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoSIsDQogICJhZGQiOiAic2cxLnZt
 vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701/?type=tcp&encryption=none&flow=&sni=amazon.com&fp=chrome&security=reality&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&sid=7ef3a8ab2886#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD
 trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:2008/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.82:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
-vless://b831381d-6324-4d53-ad4f-8cda48b30811@23.226.133.217:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=xucbdzEUf7rDPkKMrmoMiN2KIzGK17yuDeasKbeSyhw&sid=0123456789abcdef#%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E5%9C%A3%E4%BD%95%E5%A1%9E
+https://38.28.193.1/#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD
